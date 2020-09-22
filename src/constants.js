@@ -1,0 +1,1 @@
+export const MAX_PERSON_ID_LENGTH = 7;
